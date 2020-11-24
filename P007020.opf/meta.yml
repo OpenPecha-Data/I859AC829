@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN3344
   title: སི་ཏུའི་འགྲེལ་ཆེན།
-  volume: ''
+  volume:
+    83394fd8540c4b81b65e672042ae3939:
+      image_group_id: I3CN3448
+      title: Volume 1 of su tu'i 'grel chen/
+      volume_number: 1
+      total_pages: 296
   author: ''
+ebook_metadata:
+  title: སི་ཏུའི་འགྲེལ་ཆེན།
+  author: ''
+  sku: P007020
+  cover: cover.jpg
+  layers:
+  - pagination
